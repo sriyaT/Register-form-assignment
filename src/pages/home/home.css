@@ -1,0 +1,6 @@
+.home {
+  height: 90vh;
+  width: 100vw;
+  background-image: linear-gradient(to right, #d1489a, #e2468a);
+  z-index: 0;
+}
